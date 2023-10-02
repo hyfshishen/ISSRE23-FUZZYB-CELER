@@ -93,4 +93,9 @@ After changing directory to CELER-launcher by executing ```cd CELER-launcher```,
     ```
 
 ## Contributor
-[Zhengyang He](https://hyfshishen.github.io/) from the University of Iowa.
+- Main contributor: [Zhengyang He]() from the University of Iowa.
+- Other contributor: [Yafan Huang](https://hyfshishen.github.io/), who helps organize this repository, from the University of Iowa.
+
+## Citation
+> To be updated soon.
+
