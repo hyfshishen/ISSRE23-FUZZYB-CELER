@@ -1,0 +1,9 @@
+import os, sys, subprocess
+#This script aims to get the cache and dynamic instruction numbers of benchmarks
+with open('input_list.txt','r') as fr:
+    file = fr.readlines()
+    for i in file:
+        os.system("sudo sh -c \"echo 3 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '\n%s\n' 'Ram-cache and Swap Cleared'\"")
+        os.system("perf stat -e cpu-cycles -e L1-dcache-load-misses -e L1-dcache-loads -e L1-dcache-stores -e L1-icache-load-misses  -e l2_rqsts.all_demand_miss -e l2_rqsts.all_demand_references -e l2_rqsts.code_rd_miss -e l2_rqsts.code_rd_hit -e l2_rqsts.demand_data_rd_miss -e l2_rqsts.demand_data_rd_hit -e LLC-loads -e LLC-load-misses -e LLC-stores -e LLC-store-misses -e LLC-prefetch-misses -e branch-load-misses -e branch-loads -e dTLB-load-misses -e dTLB-loads -e iTLB-load-misses -e iTLB-loads -e node-load-misses -e node-loads -e l2_rqsts.all_demand_miss -e l2_rqsts.references  -e branch-misses -e branches -e cache-misses -e cache-references -e instructions -o testout --append ./hpccg " + i)
+        os.system("sudo sh -c \"echo 3 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '\n%s\n' 'Ram-cache and Swap Cleared'\"")
+        os.system("perf stat -e cpu-cycles -e L1-dcache-load-misses -e L1-dcache-loads -e L1-dcache-stores -e L1-icache-load-misses  -e l2_rqsts.all_demand_miss -e l2_rqsts.all_demand_references -e l2_rqsts.code_rd_miss -e l2_rqsts.code_rd_hit -e l2_rqsts.demand_data_rd_miss -e l2_rqsts.demand_data_rd_hit -e LLC-loads -e LLC-load-misses -e LLC-stores -e LLC-store-misses -e LLC-prefetch-misses -e branch-load-misses -e branch-loads -e dTLB-load-misses -e dTLB-loads -e iTLB-load-misses -e iTLB-loads -e node-load-misses -e node-loads -e l2_rqsts.all_demand_miss -e l2_rqsts.references  -e branch-misses -e branches -e cache-misses -e cache-references -e instructions -o testout --append ./full-protected " + i)

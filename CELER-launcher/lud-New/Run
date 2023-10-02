@@ -1,0 +1,9 @@
+#!/bin/bash
+python GenerateProgram.py $1
+cat input_list.txt | while read rows
+do
+	echo "$rows "
+	python GenerateInstructionData.py "$rows" > output
+	python GenerateInfo.py
+	rm output
+done

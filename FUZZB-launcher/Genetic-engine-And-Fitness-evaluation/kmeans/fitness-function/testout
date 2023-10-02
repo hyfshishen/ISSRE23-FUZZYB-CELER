@@ -1,0 +1,114 @@
+# started on Fri Nov 18 23:04:05 2022
+
+
+ Performance counter stats for './kmeans -i 4422_34.txt -k 26':
+
+     2,454,979,050      cpu-cycles                                                    (70.74%)
+     3,765,353,314      L1-dcache-loads                                               (70.74%)
+       528,529,130      L1-dcache-stores                                              (71.09%)
+           101,486      l2_rqsts.code_rd_miss                                         (71.90%)
+       531,526,768      branch-loads                                                  (58.17%)
+     3,770,998,922      dTLB-loads                                                    (57.35%)
+     5,579,831,026      instructions              #    2.27  insn per cycle           (71.16%)
+
+       0.510770520 seconds time elapsed
+
+       0.492624000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Nov 18 23:04:05 2022
+
+
+ Performance counter stats for './kmeans -i 4422_34.txt -k 26':
+
+     2,433,801,352      cpu-cycles                                                    (70.67%)
+     3,748,427,976      L1-dcache-loads                                               (70.79%)
+       529,763,193      L1-dcache-stores                                              (71.60%)
+           126,996      l2_rqsts.code_rd_miss                                         (72.30%)
+       522,160,997      branch-loads                                                  (57.72%)
+     3,779,600,101      dTLB-loads                                                    (56.91%)
+     5,514,241,001      instructions              #    2.27  insn per cycle           (70.76%)
+
+       0.494073551 seconds time elapsed
+
+       0.487232000 seconds user
+       0.004026000 seconds sys
+
+
+# started on Fri Nov 18 23:04:06 2022
+
+
+ Performance counter stats for './kmeans -i 4422_34.txt -k 26':
+
+     2,437,310,337      cpu-cycles                                                    (70.93%)
+     3,745,297,886      L1-dcache-loads                                               (70.93%)
+       529,593,636      L1-dcache-stores                                              (70.93%)
+            93,258      l2_rqsts.code_rd_miss                                         (71.49%)
+       528,303,514      branch-loads                                                  (58.15%)
+     3,778,183,096      dTLB-loads                                                    (57.59%)
+     5,525,065,315      instructions              #    2.27  insn per cycle           (71.32%)
+
+       0.497714269 seconds time elapsed
+
+       0.495491000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Nov 18 23:04:07 2022
+
+
+ Performance counter stats for './kmeans -i 4422_34.txt -k 26':
+
+     2,437,533,135      cpu-cycles                                                    (71.00%)
+     3,742,432,834      L1-dcache-loads                                               (71.00%)
+       529,691,389      L1-dcache-stores                                              (71.00%)
+            85,993      l2_rqsts.code_rd_miss                                         (71.65%)
+       521,605,668      branch-loads                                                  (57.99%)
+     3,787,106,342      dTLB-loads                                                    (57.35%)
+     5,525,421,453      instructions              #    2.27  insn per cycle           (71.04%)
+
+       0.498999334 seconds time elapsed
+
+       0.492771000 seconds user
+       0.004006000 seconds sys
+
+
+# started on Fri Nov 18 23:04:07 2022
+
+
+ Performance counter stats for './kmeans -i 4422_34.txt -k 26':
+
+     2,456,287,288      cpu-cycles                                                    (71.09%)
+     3,761,305,420      L1-dcache-loads                                               (71.09%)
+       528,789,525      L1-dcache-stores                                              (71.08%)
+           123,294      l2_rqsts.code_rd_miss                                         (71.11%)
+       531,599,640      branch-loads                                                  (57.83%)
+     3,765,624,182      dTLB-loads                                                    (57.80%)
+     5,569,217,775      instructions              #    2.27  insn per cycle           (71.58%)
+
+       0.499782658 seconds time elapsed
+
+       0.494462000 seconds user
+       0.003987000 seconds sys
+
+
+# started on Fri Nov 18 23:04:08 2022
+
+
+ Performance counter stats for './kmeans -i 4422_34.txt -k 26':
+
+     2,440,404,752      cpu-cycles                                                    (70.92%)
+     3,763,729,105      L1-dcache-loads                                               (70.92%)
+       529,879,042      L1-dcache-stores                                              (70.92%)
+            87,796      l2_rqsts.code_rd_miss                                         (71.18%)
+       532,042,897      branch-loads                                                  (58.16%)
+     3,763,423,098      dTLB-loads                                                    (57.90%)
+     5,536,793,147      instructions              #    2.27  insn per cycle           (71.63%)
+
+       0.497595186 seconds time elapsed
+
+       0.491467000 seconds user
+       0.003995000 seconds sys
+
+

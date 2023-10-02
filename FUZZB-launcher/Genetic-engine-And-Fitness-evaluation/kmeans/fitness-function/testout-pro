@@ -1,0 +1,114 @@
+# started on Fri Nov 18 23:04:09 2022
+
+
+ Performance counter stats for './full-protected -i 4422_34.txt -k 26':
+
+     5,556,602,399      cpu-cycles                                                    (71.10%)
+     7,731,103,834      L1-dcache-loads                                               (71.09%)
+     1,517,740,273      L1-dcache-stores                                              (71.45%)
+           150,863      l2_rqsts.code_rd_miss                                         (71.81%)
+     1,279,624,932      branch-loads                                                  (57.45%)
+     7,745,526,899      dTLB-loads                                                    (57.10%)
+    16,453,704,133      instructions              #    2.96  insn per cycle           (71.19%)
+
+       1.147258388 seconds time elapsed
+
+       1.135391000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Nov 18 23:04:10 2022
+
+
+ Performance counter stats for './full-protected -i 4422_34.txt -k 26':
+
+     5,703,996,743      cpu-cycles                                                    (71.11%)
+     7,727,760,175      L1-dcache-loads                                               (71.12%)
+     1,522,514,407      L1-dcache-stores                                              (71.45%)
+           272,895      l2_rqsts.code_rd_miss                                         (71.77%)
+     1,281,034,205      branch-loads                                                  (57.44%)
+     7,724,094,120      dTLB-loads                                                    (57.11%)
+    16,404,048,056      instructions              #    2.88  insn per cycle           (71.23%)
+
+       1.263140547 seconds time elapsed
+
+       1.218814000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Nov 18 23:04:11 2022
+
+
+ Performance counter stats for './full-protected -i 4422_34.txt -k 26':
+
+     5,547,397,173      cpu-cycles                                                    (71.51%)
+     7,721,132,335      L1-dcache-loads                                               (71.54%)
+     1,518,557,852      L1-dcache-stores                                              (71.54%)
+           162,668      l2_rqsts.code_rd_miss                                         (71.54%)
+     1,277,354,059      branch-loads                                                  (56.95%)
+     7,754,703,377      dTLB-loads                                                    (56.93%)
+    16,437,998,093      instructions              #    2.96  insn per cycle           (71.16%)
+
+       1.141803815 seconds time elapsed
+
+       1.120558000 seconds user
+       0.004001000 seconds sys
+
+
+# started on Fri Nov 18 23:04:13 2022
+
+
+ Performance counter stats for './full-protected -i 4422_34.txt -k 26':
+
+     5,551,564,053      cpu-cycles                                                    (71.08%)
+     7,740,406,656      L1-dcache-loads                                               (71.18%)
+     1,519,132,183      L1-dcache-stores                                              (71.53%)
+           148,490      l2_rqsts.code_rd_miss                                         (71.78%)
+     1,280,669,498      branch-loads                                                  (57.39%)
+     7,735,403,212      dTLB-loads                                                    (57.04%)
+    16,440,987,955      instructions              #    2.96  insn per cycle           (71.14%)
+
+       1.148499808 seconds time elapsed
+
+       1.134512000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Nov 18 23:04:14 2022
+
+
+ Performance counter stats for './full-protected -i 4422_34.txt -k 26':
+
+     5,550,056,384      cpu-cycles                                                    (71.14%)
+     7,728,708,253      L1-dcache-loads                                               (71.13%)
+     1,517,208,151      L1-dcache-stores                                              (71.13%)
+           127,548      l2_rqsts.code_rd_miss                                         (71.46%)
+     1,287,834,735      branch-loads                                                  (57.74%)
+     7,735,172,858      dTLB-loads                                                    (57.41%)
+    16,430,774,993      instructions              #    2.96  insn per cycle           (71.48%)
+
+       1.126704832 seconds time elapsed
+
+       1.104555000 seconds user
+       0.004002000 seconds sys
+
+
+# started on Fri Nov 18 23:04:15 2022
+
+
+ Performance counter stats for './full-protected -i 4422_34.txt -k 26':
+
+     5,543,548,499      cpu-cycles                                                    (71.27%)
+     7,735,074,477      L1-dcache-loads                                               (71.53%)
+     1,520,900,879      L1-dcache-stores                                              (71.53%)
+           153,384      l2_rqsts.code_rd_miss                                         (71.52%)
+     1,284,807,228      branch-loads                                                  (57.20%)
+     7,732,233,257      dTLB-loads                                                    (56.95%)
+    16,408,366,630      instructions              #    2.96  insn per cycle           (71.19%)
+
+       1.126329792 seconds time elapsed
+
+       1.123995000 seconds user
+       0.000000000 seconds sys
+
+

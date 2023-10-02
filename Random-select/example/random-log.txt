@@ -1,0 +1,1892 @@
+**** [TIME-start] **** : 21/11/2022 14:13:37
+Evaluating Input : 123 54 104
+
+--> This score : 7059.226384989957
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:14:43
+**** [TIME-start] **** : 21/11/2022 14:14:43
+Evaluating Input : 111 123 51
+
+--> This score : 7030.991433976656
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:15:49
+**** [TIME-start] **** : 21/11/2022 14:15:49
+Evaluating Input : 76 109 112
+
+--> This score : 7054.3795521095635
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:17:17
+**** [TIME-start] **** : 21/11/2022 14:17:17
+Evaluating Input : 85 70 54
+
+--> This score : 6958.802184040691
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:17:48
+**** [TIME-start] **** : 21/11/2022 14:17:48
+Evaluating Input : 116 112 91
+
+--> This score : 7013.9614608917955
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:19:41
+**** [TIME-start] **** : 21/11/2022 14:19:41
+Evaluating Input : 59 81 96
+
+--> This score : 7023.153757693236
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:20:25
+**** [TIME-start] **** : 21/11/2022 14:20:25
+Evaluating Input : 55 103 67
+
+--> This score : 7024.432398029345
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:21:01
+**** [TIME-start] **** : 21/11/2022 14:21:01
+Evaluating Input : 127 95 98
+
+--> This score : 7012.893254552947
+--> Best score at random : 7059.226384989957
+**** [TIME-end] **** : 21/11/2022 14:22:54
+**** [TIME-start] **** : 21/11/2022 14:22:54
+Evaluating Input : 103 86 83
+
+--> This score : 7069.460041557421
+--> Best score at random : 7069.460041557421
+**** [TIME-end] **** : 21/11/2022 14:24:04
+**** [TIME-start] **** : 21/11/2022 14:24:04
+Evaluating Input : 108 72 88
+
+--> This score : 7060.678258077746
+--> Best score at random : 7069.460041557421
+**** [TIME-end] **** : 21/11/2022 14:25:09
+**** [TIME-start] **** : 21/11/2022 14:25:09
+Evaluating Input : 96 67 108
+
+--> This score : 7098.118764457896
+--> Best score at random : 7098.118764457896
+**** [TIME-end] **** : 21/11/2022 14:26:16
+**** [TIME-start] **** : 21/11/2022 14:26:16
+Evaluating Input : 80 106 128
+
+--> This score : 7029.044330169066
+--> Best score at random : 7098.118764457896
+**** [TIME-end] **** : 21/11/2022 14:27:59
+**** [TIME-start] **** : 21/11/2022 14:27:59
+Evaluating Input : 98 55 124
+
+--> This score : 7096.406602837744
+--> Best score at random : 7098.118764457896
+**** [TIME-end] **** : 21/11/2022 14:29:03
+**** [TIME-start] **** : 21/11/2022 14:29:03
+Evaluating Input : 50 80 67
+
+--> This score : 6986.724435865735
+--> Best score at random : 7098.118764457896
+**** [TIME-end] **** : 21/11/2022 14:29:28
+**** [TIME-start] **** : 21/11/2022 14:29:28
+Evaluating Input : 74 88 118
+
+--> This score : 7124.735526299432
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:30:42
+**** [TIME-start] **** : 21/11/2022 14:30:42
+Evaluating Input : 96 80 90
+
+--> This score : 7024.668322095356
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:31:48
+**** [TIME-start] **** : 21/11/2022 14:31:48
+Evaluating Input : 120 107 105
+
+--> This score : 7048.5572953570245
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:33:56
+**** [TIME-start] **** : 21/11/2022 14:33:56
+Evaluating Input : 110 58 124
+
+--> This score : 7037.252233040981
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:35:11
+**** [TIME-start] **** : 21/11/2022 14:35:11
+Evaluating Input : 91 114 70
+
+--> This score : 7025.987046577889
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:36:21
+**** [TIME-start] **** : 21/11/2022 14:36:21
+Evaluating Input : 78 102 80
+
+--> This score : 6998.811935341811
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:37:21
+**** [TIME-start] **** : 21/11/2022 14:37:21
+Evaluating Input : 54 54 113
+
+--> This score : 7067.047642400308
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:37:53
+**** [TIME-start] **** : 21/11/2022 14:37:53
+Evaluating Input : 88 127 59
+
+--> This score : 6899.297362188799
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:38:55
+**** [TIME-start] **** : 21/11/2022 14:38:55
+Evaluating Input : 118 60 69
+
+--> This score : 7062.160723493598
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:39:41
+**** [TIME-start] **** : 21/11/2022 14:39:41
+Evaluating Input : 99 122 97
+
+--> This score : 7026.523394370651
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:41:32
+**** [TIME-start] **** : 21/11/2022 14:41:32
+Evaluating Input : 126 69 64
+
+--> This score : 7054.473184216317
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:42:24
+**** [TIME-start] **** : 21/11/2022 14:42:24
+Evaluating Input : 62 106 71
+
+--> This score : 6965.540943200858
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:43:09
+**** [TIME-start] **** : 21/11/2022 14:43:09
+Evaluating Input : 74 94 105
+
+--> This score : 7016.215488147878
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:44:18
+**** [TIME-start] **** : 21/11/2022 14:44:18
+Evaluating Input : 103 107 81
+
+--> This score : 7056.256809717916
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:45:42
+**** [TIME-start] **** : 21/11/2022 14:45:42
+Evaluating Input : 85 68 116
+
+--> This score : 7028.593724747484
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:46:45
+**** [TIME-start] **** : 21/11/2022 14:46:45
+Evaluating Input : 72 65 84
+
+--> This score : 7033.79106093433
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:47:22
+**** [TIME-start] **** : 21/11/2022 14:47:22
+Evaluating Input : 108 88 71
+
+--> This score : 7037.749858215804
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:48:26
+**** [TIME-start] **** : 21/11/2022 14:48:26
+Evaluating Input : 72 72 111
+
+--> This score : 7066.826955408213
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:49:20
+**** [TIME-start] **** : 21/11/2022 14:49:20
+Evaluating Input : 94 91 105
+
+--> This score : 7056.777359562601
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:50:45
+**** [TIME-start] **** : 21/11/2022 14:50:45
+Evaluating Input : 78 50 119
+
+--> This score : 7045.057012299907
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:51:29
+**** [TIME-start] **** : 21/11/2022 14:51:29
+Evaluating Input : 55 92 90
+
+--> This score : 7040.218354861493
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:52:11
+**** [TIME-start] **** : 21/11/2022 14:52:11
+Evaluating Input : 81 60 83
+
+--> This score : 7049.279114567497
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:52:50
+**** [TIME-start] **** : 21/11/2022 14:52:50
+Evaluating Input : 107 101 124
+
+--> This score : 7055.446862294328
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:54:56
+**** [TIME-start] **** : 21/11/2022 14:54:56
+Evaluating Input : 70 99 113
+
+--> This score : 7051.518811452065
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:56:09
+**** [TIME-start] **** : 21/11/2022 14:56:09
+Evaluating Input : 80 117 84
+
+--> This score : 7049.652554747547
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:57:23
+**** [TIME-start] **** : 21/11/2022 14:57:23
+Evaluating Input : 116 111 127
+
+--> This score : 7048.541793085137
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 14:59:57
+**** [TIME-start] **** : 21/11/2022 14:59:57
+Evaluating Input : 113 58 71
+
+--> This score : 7005.957252550093
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:00:41
+**** [TIME-start] **** : 21/11/2022 15:00:41
+Evaluating Input : 112 109 101
+
+--> This score : 7064.941012618975
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:02:37
+**** [TIME-start] **** : 21/11/2022 15:02:37
+Evaluating Input : 67 103 119
+
+--> This score : 6977.601809922303
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:03:54
+**** [TIME-start] **** : 21/11/2022 15:03:54
+Evaluating Input : 124 94 118
+
+--> This score : 7057.671392157914
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:06:04
+**** [TIME-start] **** : 21/11/2022 15:06:04
+Evaluating Input : 99 112 71
+
+--> This score : 7027.351573551723
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:07:18
+**** [TIME-start] **** : 21/11/2022 15:07:18
+Evaluating Input : 121 106 62
+
+--> This score : 7053.6694531068415
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:08:33
+**** [TIME-start] **** : 21/11/2022 15:08:33
+Evaluating Input : 103 54 50
+
+--> This score : 7038.93972815665
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:08:59
+**** [TIME-start] **** : 21/11/2022 15:08:59
+Evaluating Input : 106 118 58
+
+--> This score : 7021.755479638245
+--> Best score at random : 7124.735526299432
+**** [TIME-end] **** : 21/11/2022 15:10:08
+**** [TIME-start] **** : 21/11/2022 15:10:08
+Evaluating Input : 56 94 61
+
+--> This score : 7217.885343784366
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:10:38
+**** [TIME-start] **** : 21/11/2022 15:10:38
+Evaluating Input : 69 63 127
+
+--> This score : 6996.244288919807
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:11:30
+**** [TIME-start] **** : 21/11/2022 15:11:30
+Evaluating Input : 108 112 67
+
+--> This score : 7035.526134966503
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:12:47
+**** [TIME-start] **** : 21/11/2022 15:12:47
+Evaluating Input : 108 105 114
+
+--> This score : 7006.88146177045
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:14:50
+**** [TIME-start] **** : 21/11/2022 15:14:50
+Evaluating Input : 107 93 83
+
+--> This score : 7049.2799582755415
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:16:09
+**** [TIME-start] **** : 21/11/2022 15:16:09
+Evaluating Input : 108 104 92
+
+--> This score : 7034.474330990042
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:17:47
+**** [TIME-start] **** : 21/11/2022 15:17:47
+Evaluating Input : 116 116 69
+
+--> This score : 7080.964012793627
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:19:16
+**** [TIME-start] **** : 21/11/2022 15:19:16
+Evaluating Input : 80 91 54
+
+--> This score : 6913.891877627427
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:19:54
+**** [TIME-start] **** : 21/11/2022 15:19:54
+Evaluating Input : 75 125 123
+
+--> This score : 6969.02644505087
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:21:43
+**** [TIME-start] **** : 21/11/2022 15:21:43
+Evaluating Input : 111 53 64
+
+--> This score : 7012.577976571683
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:22:18
+**** [TIME-start] **** : 21/11/2022 15:22:18
+Evaluating Input : 87 105 81
+
+--> This score : 7027.979799033843
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:23:28
+**** [TIME-start] **** : 21/11/2022 15:23:28
+Evaluating Input : 87 61 55
+
+--> This score : 7015.399713230711
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:23:56
+**** [TIME-start] **** : 21/11/2022 15:23:56
+Evaluating Input : 126 120 63
+
+--> This score : 7104.278660398429
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:25:25
+**** [TIME-start] **** : 21/11/2022 15:25:25
+Evaluating Input : 86 70 111
+
+--> This score : 7052.882524856243
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:26:28
+**** [TIME-start] **** : 21/11/2022 15:26:28
+Evaluating Input : 68 96 126
+
+--> This score : 7058.725389931618
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:27:46
+**** [TIME-start] **** : 21/11/2022 15:27:46
+Evaluating Input : 101 74 94
+
+--> This score : 7042.958198352014
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:28:52
+**** [TIME-start] **** : 21/11/2022 15:28:52
+Evaluating Input : 73 60 125
+
+--> This score : 7060.256868201287
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:29:43
+**** [TIME-start] **** : 21/11/2022 15:29:43
+Evaluating Input : 74 104 76
+
+--> This score : 7086.727469019306
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:30:38
+**** [TIME-start] **** : 21/11/2022 15:30:38
+Evaluating Input : 62 89 109
+
+--> This score : 7086.3415020950315
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:31:35
+**** [TIME-start] **** : 21/11/2022 15:31:35
+Evaluating Input : 116 104 107
+
+--> This score : 7031.77836273875
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:33:37
+**** [TIME-start] **** : 21/11/2022 15:33:37
+Evaluating Input : 121 76 84
+
+--> This score : 7037.860261657679
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:34:49
+**** [TIME-start] **** : 21/11/2022 15:34:49
+Evaluating Input : 126 96 64
+
+--> This score : 7046.4273631471415
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:36:02
+**** [TIME-start] **** : 21/11/2022 15:36:02
+Evaluating Input : 50 76 104
+
+--> This score : 7051.006568514557
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:36:39
+**** [TIME-start] **** : 21/11/2022 15:36:39
+Evaluating Input : 128 102 98
+
+--> This score : 7055.246941849235
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:38:40
+**** [TIME-start] **** : 21/11/2022 15:38:40
+Evaluating Input : 75 58 104
+
+--> This score : 7068.0901059670305
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:39:22
+**** [TIME-start] **** : 21/11/2022 15:39:22
+Evaluating Input : 61 57 94
+
+--> This score : 7080.616057121045
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:39:53
+**** [TIME-start] **** : 21/11/2022 15:39:53
+Evaluating Input : 82 96 108
+
+--> This score : 7040.077630349175
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:41:13
+**** [TIME-start] **** : 21/11/2022 15:41:13
+Evaluating Input : 104 74 86
+
+--> This score : 7052.640052373579
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:42:15
+**** [TIME-start] **** : 21/11/2022 15:42:15
+Evaluating Input : 109 87 114
+
+--> This score : 7029.518672560789
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:43:57
+**** [TIME-start] **** : 21/11/2022 15:43:57
+Evaluating Input : 113 114 83
+
+--> This score : 7044.9393960580655
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:45:38
+**** [TIME-start] **** : 21/11/2022 15:45:38
+Evaluating Input : 101 106 93
+
+--> This score : 7061.715099616663
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:47:12
+**** [TIME-start] **** : 21/11/2022 15:47:12
+Evaluating Input : 94 85 111
+
+--> This score : 7037.208200254225
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:48:35
+**** [TIME-start] **** : 21/11/2022 15:48:35
+Evaluating Input : 107 111 125
+
+--> This score : 7049.688941091089
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:50:55
+**** [TIME-start] **** : 21/11/2022 15:50:55
+Evaluating Input : 111 60 119
+
+--> This score : 7121.958165832078
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:52:10
+**** [TIME-start] **** : 21/11/2022 15:52:10
+Evaluating Input : 96 101 71
+
+--> This score : 7044.8252775122055
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:53:15
+**** [TIME-start] **** : 21/11/2022 15:53:15
+Evaluating Input : 127 103 122
+
+--> This score : 7044.307926678756
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:55:45
+**** [TIME-start] **** : 21/11/2022 15:55:45
+Evaluating Input : 58 126 89
+
+--> This score : 7049.002787355784
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:56:46
+**** [TIME-start] **** : 21/11/2022 15:56:46
+Evaluating Input : 52 125 91
+
+--> This score : 6868.459420685049
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:57:42
+**** [TIME-start] **** : 21/11/2022 15:57:42
+Evaluating Input : 91 59 100
+
+--> This score : 7047.335789926944
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 15:58:33
+**** [TIME-start] **** : 21/11/2022 15:58:33
+Evaluating Input : 128 97 86
+
+--> This score : 7074.510305432842
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:00:13
+**** [TIME-start] **** : 21/11/2022 16:00:13
+Evaluating Input : 127 73 80
+
+--> This score : 7056.291396936216
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:01:23
+**** [TIME-start] **** : 21/11/2022 16:01:23
+Evaluating Input : 71 89 62
+
+--> This score : 7074.833868276635
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:02:00
+**** [TIME-start] **** : 21/11/2022 16:02:00
+Evaluating Input : 121 56 78
+
+--> This score : 7026.510917715717
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:02:50
+**** [TIME-start] **** : 21/11/2022 16:02:50
+Evaluating Input : 122 59 103
+
+--> This score : 7071.595805971139
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:04:00
+**** [TIME-start] **** : 21/11/2022 16:04:00
+Evaluating Input : 74 122 123
+
+--> This score : 7046.062269549652
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:05:44
+**** [TIME-start] **** : 21/11/2022 16:05:44
+Evaluating Input : 106 125 52
+
+--> This score : 7055.254387532352
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:06:49
+**** [TIME-start] **** : 21/11/2022 16:06:49
+Evaluating Input : 100 75 93
+
+--> This score : 7037.59830284315
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:07:54
+**** [TIME-start] **** : 21/11/2022 16:07:54
+Evaluating Input : 123 74 116
+
+--> This score : 7036.196389529001
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:09:34
+**** [TIME-start] **** : 21/11/2022 16:09:34
+Evaluating Input : 122 91 56
+
+--> This score : 7057.444616769481
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:10:32
+**** [TIME-start] **** : 21/11/2022 16:10:32
+Evaluating Input : 124 56 54
+
+--> This score : 7075.394427980879
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:11:07
+**** [TIME-start] **** : 21/11/2022 16:11:07
+Evaluating Input : 122 96 100
+
+--> This score : 6994.482041164105
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:12:58
+**** [TIME-start] **** : 21/11/2022 16:12:58
+Evaluating Input : 91 126 71
+
+--> This score : 7090.03356159834
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:14:14
+**** [TIME-start] **** : 21/11/2022 16:14:14
+Evaluating Input : 70 65 127
+
+--> This score : 7048.405667039826
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:15:09
+**** [TIME-start] **** : 21/11/2022 16:15:09
+Evaluating Input : 94 71 53
+
+--> This score : 7058.4561091698415
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:15:42
+**** [TIME-start] **** : 21/11/2022 16:15:42
+Evaluating Input : 118 115 94
+
+--> This score : 7044.1201084291615
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:17:42
+**** [TIME-start] **** : 21/11/2022 16:17:42
+Evaluating Input : 61 100 106
+
+--> This score : 7028.287950055838
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:18:43
+**** [TIME-start] **** : 21/11/2022 16:18:43
+Evaluating Input : 123 94 57
+
+--> This score : 7062.157279825063
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:19:45
+**** [TIME-start] **** : 21/11/2022 16:19:45
+Evaluating Input : 68 106 110
+
+--> This score : 7048.326871930274
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:21:00
+**** [TIME-start] **** : 21/11/2022 16:21:00
+Evaluating Input : 128 107 106
+
+--> This score : 6956.607311022054
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:23:17
+**** [TIME-start] **** : 21/11/2022 16:23:17
+Evaluating Input : 127 72 95
+
+--> This score : 6957.032148257489
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:24:39
+**** [TIME-start] **** : 21/11/2022 16:24:39
+Evaluating Input : 104 93 121
+
+--> This score : 7040.2053822672415
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:26:30
+**** [TIME-start] **** : 21/11/2022 16:26:30
+Evaluating Input : 115 108 99
+
+--> This score : 7045.711352805891
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:28:26
+**** [TIME-start] **** : 21/11/2022 16:28:26
+Evaluating Input : 74 62 105
+
+--> This score : 6986.224533938656
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:29:11
+**** [TIME-start] **** : 21/11/2022 16:29:11
+Evaluating Input : 69 55 73
+
+--> This score : 7150.309082457998
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:29:38
+**** [TIME-start] **** : 21/11/2022 16:29:38
+Evaluating Input : 74 122 104
+
+--> This score : 7074.045165189948
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:31:07
+**** [TIME-start] **** : 21/11/2022 16:31:07
+Evaluating Input : 96 121 98
+
+--> This score : 6965.231090634664
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:32:57
+**** [TIME-start] **** : 21/11/2022 16:32:57
+Evaluating Input : 56 127 56
+
+--> This score : 6836.280170014029
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:33:35
+**** [TIME-start] **** : 21/11/2022 16:33:35
+Evaluating Input : 71 89 78
+
+--> This score : 7087.846862541134
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:34:22
+**** [TIME-start] **** : 21/11/2022 16:34:22
+Evaluating Input : 56 124 72
+
+--> This score : 7037.0818052907625
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:35:10
+**** [TIME-start] **** : 21/11/2022 16:35:10
+Evaluating Input : 62 122 96
+
+--> This score : 7053.496719121561
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:36:20
+**** [TIME-start] **** : 21/11/2022 16:36:20
+Evaluating Input : 73 88 55
+
+--> This score : 7026.517707992804
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:36:54
+**** [TIME-start] **** : 21/11/2022 16:36:54
+Evaluating Input : 100 126 104
+
+--> This score : 6993.033381088893
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:38:59
+**** [TIME-start] **** : 21/11/2022 16:38:59
+Evaluating Input : 59 94 74
+
+--> This score : 6942.782696950763
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:39:39
+**** [TIME-start] **** : 21/11/2022 16:39:39
+Evaluating Input : 112 70 71
+
+--> This score : 7057.955765857597
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:40:32
+**** [TIME-start] **** : 21/11/2022 16:40:32
+Evaluating Input : 101 109 92
+
+--> This score : 7009.385567027742
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:42:09
+**** [TIME-start] **** : 21/11/2022 16:42:09
+Evaluating Input : 54 72 72
+
+--> This score : 6987.340561877384
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:42:36
+**** [TIME-start] **** : 21/11/2022 16:42:36
+Evaluating Input : 124 103 69
+
+--> This score : 7024.358994913224
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:44:00
+**** [TIME-start] **** : 21/11/2022 16:44:00
+Evaluating Input : 115 100 62
+
+--> This score : 7004.642326325477
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:45:08
+**** [TIME-start] **** : 21/11/2022 16:45:08
+Evaluating Input : 100 65 80
+
+--> This score : 7004.197184978307
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:45:58
+**** [TIME-start] **** : 21/11/2022 16:45:58
+Evaluating Input : 63 104 89
+
+--> This score : 7009.352051836924
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:46:54
+**** [TIME-start] **** : 21/11/2022 16:46:54
+Evaluating Input : 87 118 62
+
+--> This score : 6989.384024322738
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:47:56
+**** [TIME-start] **** : 21/11/2022 16:47:56
+Evaluating Input : 94 116 110
+
+--> This score : 7015.73829474945
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:49:50
+**** [TIME-start] **** : 21/11/2022 16:49:50
+Evaluating Input : 127 81 118
+
+--> This score : 7034.078589731166
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:51:45
+**** [TIME-start] **** : 21/11/2022 16:51:45
+Evaluating Input : 87 51 70
+
+--> This score : 7064.821762696935
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:52:15
+**** [TIME-start] **** : 21/11/2022 16:52:15
+Evaluating Input : 99 79 62
+
+--> This score : 7059.462389951113
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:53:01
+**** [TIME-start] **** : 21/11/2022 16:53:01
+Evaluating Input : 115 110 62
+
+--> This score : 7071.0304991911935
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:54:15
+**** [TIME-start] **** : 21/11/2022 16:54:15
+Evaluating Input : 123 101 124
+
+--> This score : 7001.153594114805
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:56:41
+**** [TIME-start] **** : 21/11/2022 16:56:41
+Evaluating Input : 77 86 95
+
+--> This score : 7026.088716037307
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:57:41
+**** [TIME-start] **** : 21/11/2022 16:57:41
+Evaluating Input : 58 74 121
+
+--> This score : 7045.375578574397
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:58:30
+**** [TIME-start] **** : 21/11/2022 16:58:30
+Evaluating Input : 117 53 59
+
+--> This score : 7038.375733464904
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:59:04
+**** [TIME-start] **** : 21/11/2022 16:59:04
+Evaluating Input : 101 54 52
+
+--> This score : 7121.874978984834
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 16:59:31
+**** [TIME-start] **** : 21/11/2022 16:59:31
+Evaluating Input : 105 93 72
+
+--> This score : 7052.941682324685
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:00:38
+**** [TIME-start] **** : 21/11/2022 17:00:38
+Evaluating Input : 56 95 91
+
+--> This score : 7054.091449754721
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:01:23
+**** [TIME-start] **** : 21/11/2022 17:01:23
+Evaluating Input : 110 71 52
+
+--> This score : 7047.694684188454
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:02:02
+**** [TIME-start] **** : 21/11/2022 17:02:02
+Evaluating Input : 76 66 87
+
+--> This score : 7039.178839730357
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:02:43
+**** [TIME-start] **** : 21/11/2022 17:02:43
+Evaluating Input : 75 81 81
+
+--> This score : 7031.7164063221935
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:03:29
+**** [TIME-start] **** : 21/11/2022 17:03:29
+Evaluating Input : 99 128 119
+
+--> This score : 7090.572335081365
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:05:51
+**** [TIME-start] **** : 21/11/2022 17:05:51
+Evaluating Input : 124 126 103
+
+--> This score : 6914.830016838698
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:08:24
+**** [TIME-start] **** : 21/11/2022 17:08:24
+Evaluating Input : 120 53 66
+
+--> This score : 7095.1397617445555
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:09:03
+**** [TIME-start] **** : 21/11/2022 17:09:03
+Evaluating Input : 50 65 53
+
+--> This score : 7056.132854814673
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:09:20
+**** [TIME-start] **** : 21/11/2022 17:09:20
+Evaluating Input : 57 72 65
+
+--> This score : 7059.8534557765115
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:09:45
+**** [TIME-start] **** : 21/11/2022 17:09:45
+Evaluating Input : 99 58 51
+
+--> This score : 7062.019003359248
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:10:13
+**** [TIME-start] **** : 21/11/2022 17:10:13
+Evaluating Input : 105 73 103
+
+--> This score : 7060.100221659531
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:11:27
+**** [TIME-start] **** : 21/11/2022 17:11:27
+Evaluating Input : 56 120 71
+
+--> This score : 7140.997998509658
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:12:12
+**** [TIME-start] **** : 21/11/2022 17:12:12
+Evaluating Input : 56 98 124
+
+--> This score : 6945.523955032636
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:13:17
+**** [TIME-start] **** : 21/11/2022 17:13:17
+Evaluating Input : 108 108 92
+
+--> This score : 7021.188617530858
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:14:58
+**** [TIME-start] **** : 21/11/2022 17:14:58
+Evaluating Input : 73 54 101
+
+--> This score : 7038.410168575542
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:15:35
+**** [TIME-start] **** : 21/11/2022 17:15:35
+Evaluating Input : 108 112 96
+
+--> This score : 7041.2505676954725
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:17:25
+**** [TIME-start] **** : 21/11/2022 17:17:25
+Evaluating Input : 59 67 83
+
+--> This score : 7046.5642566099095
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:17:56
+**** [TIME-start] **** : 21/11/2022 17:17:56
+Evaluating Input : 82 72 61
+
+--> This score : 6929.761457168796
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:18:30
+**** [TIME-start] **** : 21/11/2022 17:18:30
+Evaluating Input : 108 51 69
+
+--> This score : 7019.011132694672
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:19:06
+**** [TIME-start] **** : 21/11/2022 17:19:06
+Evaluating Input : 85 60 117
+
+--> This score : 7027.979556772528
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:20:03
+**** [TIME-start] **** : 21/11/2022 17:20:03
+Evaluating Input : 89 68 63
+
+--> This score : 7054.258873663593
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:20:39
+**** [TIME-start] **** : 21/11/2022 17:20:39
+Evaluating Input : 118 65 86
+
+--> This score : 7029.211888662947
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:21:41
+**** [TIME-start] **** : 21/11/2022 17:21:41
+Evaluating Input : 92 50 123
+
+--> This score : 7010.505429487885
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:22:34
+**** [TIME-start] **** : 21/11/2022 17:22:34
+Evaluating Input : 83 116 104
+
+--> This score : 7048.024346521616
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:24:09
+**** [TIME-start] **** : 21/11/2022 17:24:09
+Evaluating Input : 115 68 57
+
+--> This score : 7041.067496537109
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:24:51
+**** [TIME-start] **** : 21/11/2022 17:24:51
+Evaluating Input : 57 127 57
+
+--> This score : 7060.519570051905
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:25:29
+**** [TIME-start] **** : 21/11/2022 17:25:29
+Evaluating Input : 77 118 51
+
+--> This score : 7074.908409101133
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:26:13
+**** [TIME-start] **** : 21/11/2022 17:26:13
+Evaluating Input : 77 68 89
+
+--> This score : 7049.455868190622
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:26:57
+**** [TIME-start] **** : 21/11/2022 17:26:57
+Evaluating Input : 103 69 53
+
+--> This score : 7055.732873687879
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:27:33
+**** [TIME-start] **** : 21/11/2022 17:27:33
+Evaluating Input : 97 116 64
+
+--> This score : 7009.878723091778
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:28:40
+**** [TIME-start] **** : 21/11/2022 17:28:40
+Evaluating Input : 111 88 109
+
+--> This score : 7044.856240323715
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:30:21
+**** [TIME-start] **** : 21/11/2022 17:30:21
+Evaluating Input : 109 72 68
+
+--> This score : 7051.421642253105
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:31:11
+**** [TIME-start] **** : 21/11/2022 17:31:11
+Evaluating Input : 53 101 127
+
+--> This score : 7046.9581558445925
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:32:15
+**** [TIME-start] **** : 21/11/2022 17:32:15
+Evaluating Input : 69 107 72
+
+--> This score : 7062.071462104403
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:33:05
+**** [TIME-start] **** : 21/11/2022 17:33:05
+Evaluating Input : 93 114 110
+
+--> This score : 7045.001133130309
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:34:55
+**** [TIME-start] **** : 21/11/2022 17:34:55
+Evaluating Input : 69 55 112
+
+--> This score : 7082.347307961714
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:35:35
+**** [TIME-start] **** : 21/11/2022 17:35:35
+Evaluating Input : 125 99 71
+
+--> This score : 6970.051678761582
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:36:58
+**** [TIME-start] **** : 21/11/2022 17:36:58
+Evaluating Input : 110 85 77
+
+--> This score : 7038.378371854721
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:38:06
+**** [TIME-start] **** : 21/11/2022 17:38:06
+Evaluating Input : 113 116 95
+
+--> This score : 7056.954780452434
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:40:03
+**** [TIME-start] **** : 21/11/2022 17:40:03
+Evaluating Input : 122 121 98
+
+--> This score : 7047.592162862322
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:42:19
+**** [TIME-start] **** : 21/11/2022 17:42:19
+Evaluating Input : 69 90 90
+
+--> This score : 7067.577477202059
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:43:11
+**** [TIME-start] **** : 21/11/2022 17:43:11
+Evaluating Input : 66 57 108
+
+--> This score : 7069.415348744501
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:43:50
+**** [TIME-start] **** : 21/11/2022 17:43:50
+Evaluating Input : 56 92 117
+
+--> This score : 7069.186124783695
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:44:47
+**** [TIME-start] **** : 21/11/2022 17:44:47
+Evaluating Input : 116 56 98
+
+--> This score : 6983.027108625341
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:45:47
+**** [TIME-start] **** : 21/11/2022 17:45:47
+Evaluating Input : 128 60 54
+
+--> This score : 7008.710930920068
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:46:26
+**** [TIME-start] **** : 21/11/2022 17:46:26
+Evaluating Input : 66 54 51
+
+--> This score : 7064.880982209734
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:46:44
+**** [TIME-start] **** : 21/11/2022 17:46:44
+Evaluating Input : 96 105 78
+
+--> This score : 7012.593432592641
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:47:58
+**** [TIME-start] **** : 21/11/2022 17:47:58
+Evaluating Input : 111 122 61
+
+--> This score : 7032.890218667733
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:49:15
+**** [TIME-start] **** : 21/11/2022 17:49:15
+Evaluating Input : 63 58 96
+
+--> This score : 7042.4423703366865
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:49:49
+**** [TIME-start] **** : 21/11/2022 17:49:49
+Evaluating Input : 108 104 89
+
+--> This score : 7044.010249583943
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:51:23
+**** [TIME-start] **** : 21/11/2022 17:51:23
+Evaluating Input : 72 66 101
+
+--> This score : 7060.491969292111
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:52:08
+**** [TIME-start] **** : 21/11/2022 17:52:08
+Evaluating Input : 119 119 74
+
+--> This score : 7050.912012814423
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:53:46
+**** [TIME-start] **** : 21/11/2022 17:53:46
+Evaluating Input : 80 69 98
+
+--> This score : 7058.805060246005
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:54:37
+**** [TIME-start] **** : 21/11/2022 17:54:37
+Evaluating Input : 77 115 126
+
+--> This score : 7054.378347258224
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:56:22
+**** [TIME-start] **** : 21/11/2022 17:56:22
+Evaluating Input : 112 99 74
+
+--> This score : 7050.12836243636
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:57:40
+**** [TIME-start] **** : 21/11/2022 17:57:40
+Evaluating Input : 58 118 69
+
+--> This score : 7049.234855506391
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 17:58:24
+**** [TIME-start] **** : 21/11/2022 17:58:24
+Evaluating Input : 127 125 118
+
+--> This score : 7056.672745491757
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:01:20
+**** [TIME-start] **** : 21/11/2022 18:01:20
+Evaluating Input : 66 59 100
+
+--> This score : 7047.4139746116225
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:01:57
+**** [TIME-start] **** : 21/11/2022 18:01:57
+Evaluating Input : 108 61 76
+
+--> This score : 7036.649634582725
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:02:44
+**** [TIME-start] **** : 21/11/2022 18:02:44
+Evaluating Input : 51 108 72
+
+--> This score : 7101.993359759369
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:03:22
+**** [TIME-start] **** : 21/11/2022 18:03:22
+Evaluating Input : 71 96 99
+
+--> This score : 7074.019072723909
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:04:25
+**** [TIME-start] **** : 21/11/2022 18:04:25
+Evaluating Input : 76 81 92
+
+--> This score : 7021.953186992239
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:05:19
+**** [TIME-start] **** : 21/11/2022 18:05:19
+Evaluating Input : 88 125 83
+
+--> This score : 7047.448684501742
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:06:45
+**** [TIME-start] **** : 21/11/2022 18:06:45
+Evaluating Input : 69 57 112
+
+--> This score : 7177.7634660481335
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:07:26
+**** [TIME-start] **** : 21/11/2022 18:07:26
+Evaluating Input : 103 95 93
+
+--> This score : 7025.056947091423
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:08:53
+**** [TIME-start] **** : 21/11/2022 18:08:53
+Evaluating Input : 50 91 87
+
+--> This score : 7049.16635535089
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:09:31
+**** [TIME-start] **** : 21/11/2022 18:09:31
+Evaluating Input : 114 125 56
+
+--> This score : 7068.297510974989
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:10:46
+**** [TIME-start] **** : 21/11/2022 18:10:46
+Evaluating Input : 102 86 108
+
+--> This score : 7078.68694696219
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:12:15
+**** [TIME-start] **** : 21/11/2022 18:12:15
+Evaluating Input : 71 64 103
+
+--> This score : 7059.70106178655
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:12:59
+**** [TIME-start] **** : 21/11/2022 18:12:59
+Evaluating Input : 104 61 65
+
+--> This score : 7041.78284727677
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:13:39
+**** [TIME-start] **** : 21/11/2022 18:13:39
+Evaluating Input : 109 70 59
+
+--> This score : 7048.064139138049
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:14:21
+**** [TIME-start] **** : 21/11/2022 18:14:21
+Evaluating Input : 98 118 60
+
+--> This score : 7048.047311712951
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:15:27
+**** [TIME-start] **** : 21/11/2022 18:15:27
+Evaluating Input : 50 116 120
+
+--> This score : 7043.035715127628
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:16:33
+**** [TIME-start] **** : 21/11/2022 18:16:33
+Evaluating Input : 83 123 111
+
+--> This score : 7013.4305481622005
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:18:19
+**** [TIME-start] **** : 21/11/2022 18:18:19
+Evaluating Input : 60 103 64
+
+--> This score : 7061.6402544458315
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:18:57
+**** [TIME-start] **** : 21/11/2022 18:18:57
+Evaluating Input : 102 111 78
+
+--> This score : 7050.2198814070125
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:20:20
+**** [TIME-start] **** : 21/11/2022 18:20:20
+Evaluating Input : 100 52 106
+
+--> This score : 7081.977254671779
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:21:12
+**** [TIME-start] **** : 21/11/2022 18:21:12
+Evaluating Input : 108 122 113
+
+--> This score : 7029.365083706016
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:23:33
+**** [TIME-start] **** : 21/11/2022 18:23:33
+Evaluating Input : 103 88 121
+
+--> This score : 7035.247483787931
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:25:16
+**** [TIME-start] **** : 21/11/2022 18:25:16
+Evaluating Input : 69 107 71
+
+--> This score : 7098.539051741839
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:26:05
+**** [TIME-start] **** : 21/11/2022 18:26:05
+Evaluating Input : 79 110 113
+
+--> This score : 7030.888682951864
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:27:38
+**** [TIME-start] **** : 21/11/2022 18:27:38
+Evaluating Input : 123 109 101
+
+--> This score : 7071.045069890815
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:29:45
+**** [TIME-start] **** : 21/11/2022 18:29:45
+Evaluating Input : 88 120 107
+
+--> This score : 7051.355916106795
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:31:32
+**** [TIME-start] **** : 21/11/2022 18:31:32
+Evaluating Input : 126 52 114
+
+--> This score : 7011.289561069329
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:32:42
+**** [TIME-start] **** : 21/11/2022 18:32:42
+Evaluating Input : 119 97 109
+
+--> This score : 7025.2787668988085
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:34:41
+**** [TIME-start] **** : 21/11/2022 18:34:41
+Evaluating Input : 88 73 80
+
+--> This score : 7081.610060687732
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:35:29
+**** [TIME-start] **** : 21/11/2022 18:35:29
+Evaluating Input : 78 97 127
+
+--> This score : 7065.05027644804
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:36:59
+**** [TIME-start] **** : 21/11/2022 18:36:59
+Evaluating Input : 70 117 53
+
+--> This score : 7062.199714176365
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:37:40
+**** [TIME-start] **** : 21/11/2022 18:37:40
+Evaluating Input : 119 122 54
+
+--> This score : 7064.687394492427
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:38:54
+**** [TIME-start] **** : 21/11/2022 18:38:54
+Evaluating Input : 57 71 103
+
+--> This score : 7118.859411028377
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:39:33
+**** [TIME-start] **** : 21/11/2022 18:39:33
+Evaluating Input : 89 71 75
+
+--> This score : 7085.460217332556
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:40:18
+**** [TIME-start] **** : 21/11/2022 18:40:18
+Evaluating Input : 53 71 109
+
+--> This score : 7034.161559805164
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:40:56
+**** [TIME-start] **** : 21/11/2022 18:40:56
+Evaluating Input : 90 55 114
+
+--> This score : 7040.758751567342
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:41:49
+**** [TIME-start] **** : 21/11/2022 18:41:49
+Evaluating Input : 81 54 52
+
+--> This score : 7079.2750553116475
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:42:11
+**** [TIME-start] **** : 21/11/2022 18:42:11
+Evaluating Input : 68 112 108
+
+--> This score : 7038.83401182309
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:43:28
+**** [TIME-start] **** : 21/11/2022 18:43:28
+Evaluating Input : 95 52 103
+
+--> This score : 7074.668757519724
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:44:16
+**** [TIME-start] **** : 21/11/2022 18:44:16
+Evaluating Input : 95 83 52
+
+--> This score : 7030.592177353867
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:44:55
+**** [TIME-start] **** : 21/11/2022 18:44:55
+Evaluating Input : 69 82 55
+
+--> This score : 7063.891596947329
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:45:24
+**** [TIME-start] **** : 21/11/2022 18:45:24
+Evaluating Input : 68 80 64
+
+--> This score : 7071.892900330375
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:45:57
+**** [TIME-start] **** : 21/11/2022 18:45:57
+Evaluating Input : 115 110 87
+
+--> This score : 7068.747182948107
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:47:41
+**** [TIME-start] **** : 21/11/2022 18:47:41
+Evaluating Input : 94 90 120
+
+--> This score : 7063.201239016168
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:49:16
+**** [TIME-start] **** : 21/11/2022 18:49:16
+Evaluating Input : 104 92 126
+
+--> This score : 7068.15440109717
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:51:09
+**** [TIME-start] **** : 21/11/2022 18:51:09
+Evaluating Input : 87 104 57
+
+--> This score : 7044.270217559486
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:51:58
+**** [TIME-start] **** : 21/11/2022 18:51:58
+Evaluating Input : 63 111 96
+
+--> This score : 7059.7362922900475
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:53:01
+**** [TIME-start] **** : 21/11/2022 18:53:01
+Evaluating Input : 112 105 110
+
+--> This score : 6996.534286700553
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:55:03
+**** [TIME-start] **** : 21/11/2022 18:55:03
+Evaluating Input : 95 58 70
+
+--> This score : 7052.271531539696
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:55:39
+**** [TIME-start] **** : 21/11/2022 18:55:39
+Evaluating Input : 124 74 120
+
+--> This score : 7066.586189193967
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:57:23
+**** [TIME-start] **** : 21/11/2022 18:57:23
+Evaluating Input : 91 86 75
+
+--> This score : 7059.2525969743
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:58:18
+**** [TIME-start] **** : 21/11/2022 18:58:18
+Evaluating Input : 50 124 104
+
+--> This score : 7058.177673996776
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:59:19
+**** [TIME-start] **** : 21/11/2022 18:59:19
+Evaluating Input : 55 71 70
+
+--> This score : 7060.206337598997
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 18:59:45
+**** [TIME-start] **** : 21/11/2022 18:59:45
+Evaluating Input : 111 96 100
+
+--> This score : 6977.739129123271
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:01:25
+**** [TIME-start] **** : 21/11/2022 19:01:25
+Evaluating Input : 65 99 81
+
+--> This score : 7060.668635298078
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:02:14
+**** [TIME-start] **** : 21/11/2022 19:02:14
+Evaluating Input : 75 123 59
+
+--> This score : 7032.497102734537
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:03:06
+**** [TIME-start] **** : 21/11/2022 19:03:06
+Evaluating Input : 112 56 120
+
+--> This score : 7077.375543689914
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:04:16
+**** [TIME-start] **** : 21/11/2022 19:04:16
+Evaluating Input : 82 112 60
+
+--> This score : 7000.49631867443
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:05:08
+**** [TIME-start] **** : 21/11/2022 19:05:08
+Evaluating Input : 128 61 81
+
+--> This score : 6977.144084113628
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:06:08
+**** [TIME-start] **** : 21/11/2022 19:06:08
+Evaluating Input : 72 71 107
+
+--> This score : 7043.5096356058675
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:07:00
+**** [TIME-start] **** : 21/11/2022 19:07:00
+Evaluating Input : 101 121 74
+
+--> This score : 7062.329873344989
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:08:25
+**** [TIME-start] **** : 21/11/2022 19:08:25
+Evaluating Input : 104 79 105
+
+--> This score : 7011.798126938492
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:09:46
+**** [TIME-start] **** : 21/11/2022 19:09:46
+Evaluating Input : 102 74 79
+
+--> This score : 7055.846465851691
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:10:43
+**** [TIME-start] **** : 21/11/2022 19:10:43
+Evaluating Input : 96 111 66
+
+--> This score : 6873.170171450393
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:11:49
+**** [TIME-start] **** : 21/11/2022 19:11:49
+Evaluating Input : 75 123 56
+
+--> This score : 7008.237243635521
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:12:38
+**** [TIME-start] **** : 21/11/2022 19:12:38
+Evaluating Input : 116 73 74
+
+--> This score : 7057.881378347231
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:13:38
+**** [TIME-start] **** : 21/11/2022 19:13:38
+Evaluating Input : 60 100 119
+
+--> This score : 6975.349452798197
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:14:45
+**** [TIME-start] **** : 21/11/2022 19:14:45
+Evaluating Input : 50 127 114
+
+--> This score : 7041.404041127416
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:15:53
+**** [TIME-start] **** : 21/11/2022 19:15:53
+Evaluating Input : 79 122 91
+
+--> This score : 7049.641085083246
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:17:16
+**** [TIME-start] **** : 21/11/2022 19:17:16
+Evaluating Input : 90 112 124
+
+--> This score : 7062.287419719222
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:19:13
+**** [TIME-start] **** : 21/11/2022 19:19:13
+Evaluating Input : 72 110 81
+
+--> This score : 7099.889276965384
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:20:14
+**** [TIME-start] **** : 21/11/2022 19:20:14
+Evaluating Input : 98 101 109
+
+--> This score : 6946.721141658921
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:21:58
+**** [TIME-start] **** : 21/11/2022 19:21:58
+Evaluating Input : 115 63 103
+
+--> This score : 7033.510378905591
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:23:09
+**** [TIME-start] **** : 21/11/2022 19:23:09
+Evaluating Input : 127 116 61
+
+--> This score : 6999.876811798549
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:24:35
+**** [TIME-start] **** : 21/11/2022 19:24:35
+Evaluating Input : 81 57 63
+
+--> This score : 7016.842581181657
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:25:03
+**** [TIME-start] **** : 21/11/2022 19:25:03
+Evaluating Input : 58 84 81
+
+--> This score : 7029.619291961056
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:25:41
+**** [TIME-start] **** : 21/11/2022 19:25:41
+Evaluating Input : 85 93 86
+
+--> This score : 7003.76107151135
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:26:47
+**** [TIME-start] **** : 21/11/2022 19:26:47
+Evaluating Input : 118 97 67
+
+--> This score : 6956.833960687153
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:28:00
+**** [TIME-start] **** : 21/11/2022 19:28:00
+Evaluating Input : 94 122 66
+
+--> This score : 7044.282086112009
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:29:11
+**** [TIME-start] **** : 21/11/2022 19:29:11
+Evaluating Input : 59 51 107
+
+--> This score : 7060.497772766226
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:29:42
+**** [TIME-start] **** : 21/11/2022 19:29:42
+Evaluating Input : 65 101 128
+
+--> This score : 7050.586753558438
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:31:01
+**** [TIME-start] **** : 21/11/2022 19:31:01
+Evaluating Input : 52 70 126
+
+--> This score : 7081.280015707796
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:31:44
+**** [TIME-start] **** : 21/11/2022 19:31:44
+Evaluating Input : 67 102 80
+
+--> This score : 7126.869030323498
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:32:36
+**** [TIME-start] **** : 21/11/2022 19:32:36
+Evaluating Input : 110 109 58
+
+--> This score : 7083.722694479595
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:33:42
+**** [TIME-start] **** : 21/11/2022 19:33:42
+Evaluating Input : 71 60 93
+
+--> This score : 7053.756527289062
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:34:19
+**** [TIME-start] **** : 21/11/2022 19:34:19
+Evaluating Input : 84 69 57
+
+--> This score : 7041.05711657308
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:34:50
+**** [TIME-start] **** : 21/11/2022 19:34:50
+Evaluating Input : 106 116 55
+
+--> This score : 7042.819344119513
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:35:54
+**** [TIME-start] **** : 21/11/2022 19:35:54
+Evaluating Input : 56 54 106
+
+--> This score : 7058.662512066285
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:36:25
+**** [TIME-start] **** : 21/11/2022 19:36:25
+Evaluating Input : 117 102 120
+
+--> This score : 7052.262659371119
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:38:39
+**** [TIME-start] **** : 21/11/2022 19:38:39
+Evaluating Input : 118 89 127
+
+--> This score : 7068.610257585364
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:40:45
+**** [TIME-start] **** : 21/11/2022 19:40:45
+Evaluating Input : 123 96 87
+
+--> This score : 7080.886077403556
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:42:22
+**** [TIME-start] **** : 21/11/2022 19:42:22
+Evaluating Input : 125 67 109
+
+--> This score : 7071.922392592404
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:43:48
+**** [TIME-start] **** : 21/11/2022 19:43:48
+Evaluating Input : 92 95 58
+
+--> This score : 7113.887290594469
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:44:36
+**** [TIME-start] **** : 21/11/2022 19:44:36
+Evaluating Input : 83 87 94
+
+--> This score : 7145.024435242664
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:45:40
+**** [TIME-start] **** : 21/11/2022 19:45:40
+Evaluating Input : 121 63 82
+
+--> This score : 7069.190761120083
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:46:39
+**** [TIME-start] **** : 21/11/2022 19:46:39
+Evaluating Input : 98 90 109
+
+--> This score : 7062.509868893057
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:48:10
+**** [TIME-start] **** : 21/11/2022 19:48:10
+Evaluating Input : 104 101 71
+
+--> This score : 7049.355469426711
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:49:20
+**** [TIME-start] **** : 21/11/2022 19:49:20
+Evaluating Input : 85 64 69
+
+--> This score : 7010.3569512467475
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:49:56
+**** [TIME-start] **** : 21/11/2022 19:49:56
+Evaluating Input : 121 71 50
+
+--> This score : 7125.089232791874
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:50:36
+**** [TIME-start] **** : 21/11/2022 19:50:36
+Evaluating Input : 106 96 105
+
+--> This score : 7028.8685635965685
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:52:17
+**** [TIME-start] **** : 21/11/2022 19:52:17
+Evaluating Input : 84 70 90
+
+--> This score : 7005.4873533873315
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:53:07
+**** [TIME-start] **** : 21/11/2022 19:53:07
+Evaluating Input : 74 66 56
+
+--> This score : 7123.85225718272
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:53:33
+**** [TIME-start] **** : 21/11/2022 19:53:33
+Evaluating Input : 56 124 71
+
+--> This score : 7074.729564999587
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:54:19
+**** [TIME-start] **** : 21/11/2022 19:54:20
+Evaluating Input : 122 118 120
+
+--> This score : 7108.777550585635
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:57:03
+**** [TIME-start] **** : 21/11/2022 19:57:03
+Evaluating Input : 69 57 123
+
+--> This score : 6952.552505244413
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:57:50
+**** [TIME-start] **** : 21/11/2022 19:57:50
+Evaluating Input : 87 95 109
+
+--> This score : 7035.2045968338425
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 19:59:17
+**** [TIME-start] **** : 21/11/2022 19:59:17
+Evaluating Input : 96 89 82
+
+--> This score : 7007.648392574085
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:00:24
+**** [TIME-start] **** : 21/11/2022 20:00:24
+Evaluating Input : 59 75 95
+
+--> This score : 7000.615466901172
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:01:05
+**** [TIME-start] **** : 21/11/2022 20:01:05
+Evaluating Input : 58 59 122
+
+--> This score : 7060.778448640142
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:01:44
+**** [TIME-start] **** : 21/11/2022 20:01:44
+Evaluating Input : 81 106 119
+
+--> This score : 7046.4245554668605
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:03:22
+**** [TIME-start] **** : 21/11/2022 20:03:22
+Evaluating Input : 80 123 84
+
+--> This score : 7095.24111884314
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:04:41
+**** [TIME-start] **** : 21/11/2022 20:04:41
+Evaluating Input : 121 87 56
+
+--> This score : 6986.330464048706
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:05:38
+**** [TIME-start] **** : 21/11/2022 20:05:38
+Evaluating Input : 114 105 93
+
+--> This score : 7120.194632332626
+--> Best score at random : 7217.885343784366
+**** [TIME-end] **** : 21/11/2022 20:07:25
+**** [TIME-start] **** : 21/11/2022 20:07:25
+Evaluating Input : 109 126 57
+
+--> This score : 7232.029946172372
+--> Best score at random : 7232.029946172372
+**** [TIME-end] **** : 21/11/2022 20:08:42
+**** [TIME-start] **** : 21/11/2022 20:08:42
+Evaluating Input : 97 92 111
+
+--> This score : 6899.855259523614
+--> Best score at random : 7232.029946172372
+**** [TIME-end] **** : 21/11/2022 20:10:18
+**** [TIME-start] **** : 21/11/2022 20:10:18
+Evaluating Input : 112 86 118
+
+--> This score : 6994.320111843065
+--> Best score at random : 7232.029946172372
+**** [TIME-end] **** : 21/11/2022 20:12:07
+**** [TIME-start] **** : 21/11/2022 20:12:07
+Evaluating Input : 112 50 97
+
+--> This score : 6954.867016377077
+--> Best score at random : 7232.029946172372
+**** [TIME-end] **** : 21/11/2022 20:12:59
+**** [TIME-start] **** : 21/11/2022 20:12:59
+Evaluating Input : 82 124 124
+
+--> This score : 7037.746150932186
+--> Best score at random : 7232.029946172372
+**** [TIME-end] **** : 21/11/2022 20:14:59
+**** [TIME-start] **** : 21/11/2022 20:14:59
+**** [TIME-start] **** : 01/10/2023 19:38:48

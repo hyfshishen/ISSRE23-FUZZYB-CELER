@@ -1,0 +1,1 @@
+rm -rf testout* stdout fitness-score.txt

@@ -1,0 +1,19 @@
+# started on Sun Oct  1 19:38:49 2023
+
+
+ Performance counter stats for './hpccg 123 54 104':
+
+    13,135,801,312      cpu-cycles                                                    (71.35%)
+    16,426,853,873      L1-dcache-loads                                               (71.34%)
+     2,997,180,861      L1-dcache-stores                                              (71.35%)
+           488,914      l2_rqsts.code_rd_miss                                         (71.41%)
+     2,941,405,879      branch-loads                                                  (57.31%)
+    16,358,861,113      dTLB-loads                                                    (57.24%)
+    25,276,451,832      instructions              #    1.92  insn per cycle           (71.42%)
+
+       2.656859527 seconds time elapsed
+
+       2.600527000 seconds user
+       0.052010000 seconds sys
+
+
