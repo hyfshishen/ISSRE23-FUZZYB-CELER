@@ -7,6 +7,7 @@
 4. [FUZZYB](#fuzzyb)
 5. [CELER](#celer)
 6. [Contributor](#contributor)
+7. [Citation](#citation)
 
 ## Introduction
 Soft error rate has been increasing due to the shrinking size of transistors, leading to an elevated risk of catastrophic failures in modern computer systems. 
@@ -16,7 +17,7 @@ Few studies have investigated the performance of EDDI across various system desi
 In this paper, we conduct comprehensive experiments to study the variation of EDDI runtime performance overhead and characterize the root causes.
 We find that there exist significant variations in performance overheads of EDDI, due to a few architectural and program-level factors.
 Based on the findings, we propose two practical techniques FUZZYB and CELER: FUZZYB uses an input searching technique to bound EDDI runtime performance overhead across different inputs for a given program; while CELER reduces EDDI runtime performance overheads using compiler transformation.
-To know more about how **FUZZYB** and **CELER** works, you may refer to our [ISSRE'23 paper]().
+To know more about how **FUZZYB** and **CELER** works, you may refer to our [ISSRE'23 paper](https://hyfshishen.github.io/publications/ISSRE23-paper.pdf).
 
 
 ## Environment Configuration
@@ -97,5 +98,14 @@ After changing directory to CELER-launcher by executing ```cd CELER-launcher```,
 - Other contributor: [Yafan Huang](https://hyfshishen.github.io/), who helps organize this repository, from the University of Iowa.
 
 ## Citation
-> To be updated soon.
+```bibtex
+@inproceedings{huang2023characterizing,
+    title={Characterizing Runtime Performance Variation in Error Detection by Duplicating Instructions},
+    author={Huang, Yafan and He, Zhengyang and Li, Lingda and Li, Guanpeng},
+    booktitle={2023 IEEE 34th International Symposium on Software Reliability Engineering (ISSRE)},
+    pages={730--741},
+    year={2023},
+    organization={IEEE}
+}
+```
 
